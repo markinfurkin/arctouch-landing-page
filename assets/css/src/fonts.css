@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Helvetica Neue LT Std 45 Light';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Helvetica Neue LT Std 45 Light'), url('../../fonts/HelveticaNeueLTStdLt.woff') format('woff');
+}
+@font-face {
+	font-family: 'Myriad Pro';
+	font-style: normal;
+	font-weight: normal;
+	src:  url('../../fonts/MyriadPro-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Novecentosanswide DemiBold';
+	font-style: normal;
+	font-weight: normal;
+	src:  url('../../fonts/Novecentosanswide-DemiBold.woff') format('woff');
+}
