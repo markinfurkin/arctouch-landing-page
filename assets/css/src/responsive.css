@@ -30,6 +30,9 @@
 		padding-left: 5px;
     	padding-right: 5px;
 	}
+	.feature {
+		padding: 20px 5px;
+	}
 	.pricing-cards,
 	.pricing-card.featured {
 		transform: none;
