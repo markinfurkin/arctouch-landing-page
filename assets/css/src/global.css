@@ -270,6 +270,7 @@ footer {
 }
 .nav-footer li {
 	float: left;
+	cursor: pointer;
 }
 /**VIMEO RESPONSIVE CONTAINER **/
 .embed-container { 
